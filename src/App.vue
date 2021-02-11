@@ -16,7 +16,9 @@ export default {
 
 <style>
 #app {
-  font-family: 'Sofia', cursive;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
 }
 
@@ -60,9 +62,9 @@ export default {
 }
 
 .booking {
-  background-color: cadetblue;
+  background-color: cornflowerblue;
   padding: 10px;
   margin: 10px;
-  width: 280px;
+  width: 300px;
 }
 </style>
